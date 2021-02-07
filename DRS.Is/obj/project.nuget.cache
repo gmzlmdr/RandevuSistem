@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4xAZRmlP+FACyzD7gnn37MSCTQ1zzpe3yvr09f0u5DRe7hDdofdg4c1UzN2CFz64tdPtkXQlOBeNYZUmyimHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ŞuayipOrhan\\.nuget\\packages\\fluentvalidation\\9.0.0-preview3\\fluentvalidation.9.0.0-preview3.nupkg.sha512",
+    "C:\\Users\\ŞuayipOrhan\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

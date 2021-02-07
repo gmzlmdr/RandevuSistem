@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj",
+        "projectName": "DRS.Is",
+        "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj",
+        "packagesPath": "C:\\Users\\ŞuayipOrhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ŞuayipOrhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ŞuayipOrhan\\Desktop\\Paketler": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj": {
+                "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj"
+              },
+              "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj": {
+                "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.0-preview3, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj",
+        "projectName": "DRS.VeriErisim",
+        "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj": {
+                "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj",
+        "projectName": "DRS.Veriler",
+        "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

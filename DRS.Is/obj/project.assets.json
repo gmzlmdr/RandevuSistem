@@ -1,0 +1,283 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "FluentValidation/9.0.0-preview3": {
+        "type": "package",
+        "compile": {
+          "lib/net461/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net461/FluentValidation.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "DRS.VeriErisim/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DRS.Veriler": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        }
+      },
+      "DRS.Veriler/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "FluentValidation/9.0.0-preview3": {
+        "type": "package",
+        "compile": {
+          "lib/net461/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net461/FluentValidation.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "DRS.VeriErisim/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DRS.Veriler": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        }
+      },
+      "DRS.Veriler/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "FluentValidation/9.0.0-preview3": {
+        "type": "package",
+        "compile": {
+          "lib/net461/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net461/FluentValidation.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "DRS.VeriErisim/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DRS.Veriler": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        }
+      },
+      "DRS.Veriler/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "FluentValidation/9.0.0-preview3": {
+        "type": "package",
+        "compile": {
+          "lib/net461/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net461/FluentValidation.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "DRS.VeriErisim/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DRS.Veriler": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.VeriErisim.dll": {}
+        }
+      },
+      "DRS.Veriler/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DRS.Veriler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/9.0.0-preview3": {
+      "sha512": "VEuZONZMULGRGFC52HuZ1t1mOA4d1HxSS4O+CYaofK4TVjpFEPBbibTSEEln/TWzOKp+dOFNbNKaHpRBSkUhlg==",
+      "type": "package",
+      "path": "fluentvalidation/9.0.0-preview3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.9.0.0-preview3.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
+    "Ninject/3.3.4": {
+      "sha512": "CmbWW97FfJuh4LEOVZM/spqXl4KAulRUjqeMwRd5J9rDMQArmIYaDMU3pyzXXHT062tbF0OPIMwI7tSOtprPfg==",
+      "type": "package",
+      "path": "ninject/3.3.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Ninject.dll",
+        "lib/net45/Ninject.xml",
+        "lib/netstandard2.0/Ninject.dll",
+        "lib/netstandard2.0/Ninject.xml",
+        "ninject.3.3.4.nupkg.sha512",
+        "ninject.nuspec"
+      ]
+    },
+    "DRS.VeriErisim/1.0.0": {
+      "type": "project",
+      "path": "../DRS.VeriErisim/DRS.VeriErisim.csproj",
+      "msbuildProject": "../DRS.VeriErisim/DRS.VeriErisim.csproj"
+    },
+    "DRS.Veriler/1.0.0": {
+      "type": "project",
+      "path": "../DRS.Veriler/DRS.Veriler.csproj",
+      "msbuildProject": "../DRS.Veriler/DRS.Veriler.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "DRS.VeriErisim >= 1.0.0",
+      "DRS.Veriler >= 1.0.0",
+      "FluentValidation >= 9.0.0-preview3",
+      "Ninject >= 3.3.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ŞuayipOrhan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj",
+      "projectName": "DRS.Is",
+      "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\DRS.Is.csproj",
+      "packagesPath": "C:\\Users\\ŞuayipOrhan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Is\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\ŞuayipOrhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\ŞuayipOrhan\\Desktop\\Paketler": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj": {
+              "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.VeriErisim\\DRS.VeriErisim.csproj"
+            },
+            "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj": {
+              "projectPath": "C:\\Users\\ŞuayipOrhan\\Desktop\\DRS2\\DRS2\\DRS\\DpuRandevuSistemi\\DRS.Veriler\\DRS.Veriler.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[9.0.0-preview3, )"
+          },
+          "Ninject": {
+            "target": "Package",
+            "version": "[3.3.4, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
